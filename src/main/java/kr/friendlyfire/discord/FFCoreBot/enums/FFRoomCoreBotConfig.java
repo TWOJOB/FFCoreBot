@@ -5,7 +5,7 @@ public enum FFRoomCoreBotConfig {
 	/**
 	 * 디스코드 토큰
 	 */
-	TOKEN = System.getenv("BOT_TOKEN"), //디스코드 봇 토큰
+	TOKEN("84FDV1UkMurCy79rDQQR9LrLJEwxxrhD"), //디스코드 봇 토큰
 	/**
 	 * 서버의 ID
 	 */
