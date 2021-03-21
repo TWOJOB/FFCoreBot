@@ -29,11 +29,11 @@ public enum FFRoomCoreBotConfig {
 	/**
 	 * 봇의 대표이미지
 	 */
-	BOT_IMG(""),
+	BOT_IMG("https://www.google.com/imgres?imgurl=http%3A%2F%2Fbizionkorea.cafe24.com%2Fdata%2Feditor%2F1410%2F810fb04cc8b8c2ba2b8842fb7bb4feec_vICoHABwEPSRrV5G51.jpg&imgrefurl=http%3A%2F%2Fshow.bizion.com%2Fbbs%2Fboard.php%3Fbo_table%3Dgear%26wr_id%3D749%26page%3D9%26device%3Dpc&tbnid=6Pgz5fPb_IvVTM&vet=12ahUKEwiRlf3V8MHvAhWOz4sBHfm1AhQQMygAegUIARDrAQ..i&docid=lX3S7KP6w9ImuM&w=670&h=479&q=%ED%97%A4%EB%93%9C%EC%85%8B&hl=ko&ved=2ahUKEwiRlf3V8MHvAhWOz4sBHfm1AhQQMygAegUIARDrAQ"),
 	/**
 	 * 관리자의 uid
 	 */
-	ADMIN_UID(""),
+	ADMIN_UID("347357018878771210"),
 	;
 
 	private String strVal;
