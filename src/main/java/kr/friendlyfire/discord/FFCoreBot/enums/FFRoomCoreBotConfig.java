@@ -25,7 +25,7 @@ public enum FFRoomCoreBotConfig {
 	/**
 	 * 봇의 이름
 	 */
-	BOT_NAME(""),
+	BOT_NAME("음성서버"),
 	/**
 	 * 봇의 대표이미지
 	 */
